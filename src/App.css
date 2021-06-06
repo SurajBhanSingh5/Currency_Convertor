@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  background: url(back.jpg);
+  background-size: cover;
+}
+
+div{
+  margin-left: 400px;
+}
+
+h1 {
+  margin: 10px 0 16px 0 ;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 400px;
+  color:blue;
+}
+
+.input {
+  border: 1px solid brown;
+  border-radius: .5em;
+  padding: .25rem;
+  width: 7em;
+  color: brown;
+  height: 20px;
+  width: 30%;
+}
+
+select {
+  margin-left: .5rem;
+  width: 30%;
+  padding: 8px 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 3rem;
+  color:black;
+}
